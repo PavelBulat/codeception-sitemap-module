@@ -1,5 +1,5 @@
 {
-    "name": "portrino/codeception-sitemap-module",
+    "name": "pavelbulat/codeception-sitemap-module",
     "description": "Parse and validate sitemap.xml files",
     "authors": [
         {
