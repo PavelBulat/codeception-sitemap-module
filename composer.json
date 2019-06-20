@@ -1,6 +1,7 @@
 {
     "name": "pavelbulat/codeception-sitemap-module",
     "description": "Parse and validate sitemap.xml files",
+    "minimum-stability": "dev".
     "authors": [
         {
             "name": "André Wuttig",
